@@ -91,10 +91,10 @@ Install pandas using pip install pandas
 
 ![App Screenshot](images/Screenshot%202026-03-13%20132737.png)
 
-Record a 10-second screen recording showing:
 
-1️⃣ Entering an error  
-2️⃣ Clicking search  
+
+1️⃣ Enter an error  
+2️⃣ Click search  
 3️⃣ Solution appearing
 
 🏗 Tech Stack
